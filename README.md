@@ -1,4 +1,4 @@
-<h3 align="center">PR4MOD CHAULAGAIN </h3>
+<h3 align="center">PR4MOD ED1TZ </h3>
 
 - 💬**Cloning**
 
