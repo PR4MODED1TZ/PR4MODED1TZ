@@ -1,10 +1,10 @@
 <h3 align="center">Developer from Nepal</h3>
 
-- 💬 Ask me about **Cloning**
+- 💬**Cloning**
 
-- 📫 How to reach me **pramodchaulagain40@gmail.com**
+- 📫**pramodchaulagain40@gmail.com**
 
-- ⚡ Fun fact **Be Safe From Me**
+- ⚡**Be Safe From Me**
 
 <h3 align="left">Connect with me:</h3>
 
