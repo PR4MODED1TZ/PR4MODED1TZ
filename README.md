@@ -1,4 +1,4 @@
-<h3 align="center"> Pr4mod Chaulagain </h3>
+<h3 align="center"> Pr4mod Ed1tz </h3>
 <h3>Developer From Nepal </h3>
 
 - 💬**Cloning**
